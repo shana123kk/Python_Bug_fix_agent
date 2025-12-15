@@ -88,4 +88,5 @@ def fix_code_agent(file_path):
 
 
 if __name__ == "__main__":
-    fix_code_agent("example5.py")
+    fix_code_agent("example4.py") # Here, add the sample file you want to test
+
